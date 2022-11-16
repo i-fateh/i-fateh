@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="auto"/>
+  <img src="https://raw.githubusercontent.com/i-fateh/i-fateh/main/wave.png" width="100%" height="auto"/>
 </div>
 
 <div id="header" align="center">
