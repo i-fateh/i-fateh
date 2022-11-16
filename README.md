@@ -15,19 +15,15 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-	
-	
+
+<br>
 </div>
 
-<div align="center">
-	<h1>
-		hey there
-		<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></a>
-	</h1>
-</div>
+
 
 
 ---
+
 
 ### :woman_technologist: About Me :
 
@@ -61,10 +57,6 @@ I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/
 
 ---
 
-### :fire: My Stats :
-
-<a href="#">![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-fateh&hide_border=true)</a>
-
 
 ### :fire: Favorites langages :
 
@@ -72,19 +64,17 @@ I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Links to some projects :
 
-[a link](https://crazyform.netlify.app/)
+[Crazy Form](https://crazyform.netlify.app/)
 <br>
-[a link](https://crazyform.netlify.app/)
-<br>
-[a link](https://crazyform.netlify.app/)
+[Funny Form](funnyform.vercel.app)
 <br>
 
 
 <div>
   <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
-	  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
   <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
   <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
   <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
