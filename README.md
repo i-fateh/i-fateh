@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
 
   <a href="#"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
@@ -17,6 +16,20 @@
   </div>
 
 <br>
+</div>
+
+
+<div align="center">
+  <a href="https://crazyform.netlify.app/"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
+	<br>
+  <img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
 </div>
 
 
@@ -63,14 +76,8 @@ I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/
 
 ### :writing_hand: Links to some projects :
 
-[Crazy Form](https://crazyform.netlify.app/)
-<br>
-[Funny Form](https://funnyform.vercel.app)
-<br>
-
-
 <div align="center">
-  <a href="https://crazyform.netlify.app/" target="_blank"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href="https://crazyform.netlify.app/"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
   <img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
   <img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
   <img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
