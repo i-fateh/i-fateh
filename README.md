@@ -5,13 +5,13 @@
   <a href="#"><img src="https://raw.githubusercontent.com/i-fateh/i-fateh/main/justcode.png" width="100%" height="auto"/></a>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/fatehelboucherour/" target="_blank">
+    <a href="https://www.linkedin.com/in/fatehelboucherour/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UC5uI73aM4h6ed1YA9f_XumQ" target="_blank">
+    <a href="https://www.youtube.com/channel/UC5uI73aM4h6ed1YA9f_XumQ">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/creazerty" target="_blank">
+    <a href="https://twitter.com/creazerty">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -70,7 +70,7 @@ I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/
 
 
 <div align="center">
-  <a href="https://crazyform.netlify.app/" targget="_blank"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href="https://crazyform.netlify.app/" target="_blank"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
   <img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
   <img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
   <img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
