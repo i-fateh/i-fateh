@@ -1,31 +1,99 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/i-fateh/i-fateh/main/wave.png" width="100%" height="auto"/>
+  <a href="#"><img src="https://raw.githubusercontent.com/i-fateh/i-fateh/main/wave.png" width="100%" height="auto"/></a>
 </div>
 
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <a href="#"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
   
   <br>
   <br>
   
   <div id="badges">
-    <a href="your-linkedin-URL" target="_blank">
+    <a href="https://www.linkedin.com/in/fatehelboucherour/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL" target="_blank">
+    <a href="https://www.youtube.com/channel/UC5uI73aM4h6ed1YA9f_XumQ" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL" target="_blank">
+    <a href="https://twitter.com/creazerty" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+  </div>
+	
+	
+</div>
+
+<div align="center">
+	<h1>
+		hey there
+		<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></a>
+	</h1>
 </div>
 
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+---
 
+### :woman_technologist: About Me :
+
+I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a> from France.
+
+
+- :telescope: I’m working as a Project Manager / Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, i solve problems with Javascript, I draw Manga and eat good things.
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/></a>&nbsp;&nbsp;
+	<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Node JS" width="60" height="60"/></a>&nbsp;&nbsp;
+	<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Material UI" alt="Material UI" width="60" height="60"/></a>&nbsp;&nbsp;
+	<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/></a>&nbsp;&nbsp;
+</div>
+
+
+---
+
+### :fire: My Stats :
+
+<a href="#">![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-fateh&hide_border=true)</a>
+
+
+### :fire: Favorites langages :
+
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-fateh&hide_border=true&layout=compact&theme=vision-friendly-light)</a>
+
+---
+
+### :writing_hand: Blog Posts :
+
+[a link](https://crazyform.netlify.app/)
+<br>
+[a link](https://crazyform.netlify.app/)
+<br>
+[a link](https://crazyform.netlify.app/)
+<br>
+
+
+<div>
+  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
+	  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
 
 </div>
