@@ -83,17 +83,17 @@
 
 <div align="center">
   <a href="https://crazyform.netlify.app/"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href="https://crazyform.netlify.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/crazyform.jpeg" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="330" height="auto"/></a>
+  <a href=""><img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href="https://crazyform.netlify.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/crazyform.jpeg" title="Git" **alt="Git" width="300" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="300" height="auto"/></a>
 
 </div>
 
