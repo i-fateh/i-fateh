@@ -22,45 +22,47 @@
 
 <div align="center">
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/screeby.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/dragonball.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href="https://dbzsite.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/dragonball.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/instagram.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/pinterest.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/teslabot.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/iphone.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <br>
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/lanslot.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href="https://funnyform.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href="https://crazyform.netlify.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/crazyform.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/switch.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/reactstudio.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>
+  <a href="https://creazerty.com/"><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>
 
 </div>
 
 
+<div align='center'>
+<br>
+  <a href="#"><img src="https://github.com/i-fateh/i-fateh/blob/main/aboutMe.gif" width="300" /></a>
+<br>
+</div>
+
+
+<div>
+<br>
+:vulcan_salute: # Heading1 Hello, 
+I am a Full Stack Developer from France.
+
+
+:man_technologist: I’m working as a Project Manager / Software Engineer and contributing to frontend and backend for building web applications.
+
+:books: Exploring Technical Content Writing.
+
+:hourglass_flowing_sand: In my free time, i solve problems with Javascript, I draw Manga and eat good things.
+<br>
+	<br>
+</div>
+
 ---
 
-
-### :woman_technologist: About Me :
-
-
-  <a href="#"><img src="https://github.com/i-fateh/i-fateh/blob/main/about.gif" width="100%" /></a>
-
-
-
-:vulcan_salute: , I am a Full Stack Developer from France.
-
-
-- :man_technologist: I’m working as a Project Manager / Software Engineer and contributing to frontend and backend for building web applications.
-
-- :books: Exploring Technical Content Writing.
-
-- :hourglass_flowing_sand: In my free time, i solve problems with Javascript, I draw Manga and eat good things.
-
-
----
-
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
 	  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/></a>&nbsp;&nbsp;
@@ -73,32 +75,32 @@
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/></a>&nbsp;&nbsp;
 </div>
-
+<br>
 
 ---
 
 
-### :fire: Favorites langages :
+## :fire: Favorites langages :
 
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-fateh&hide_border=true&layout=compact&theme=vision-friendly-light)</a>
 
 ---
 
-### :writing_hand: Links to some projects :
+## :writing_hand: Links to some projects :
 
 <div align="center">
   <a href="https://crazyform.netlify.app/"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
+  <a href="https://dbzsite.vercel.app/"><img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
+  <a href="https://reactstudiocode.vercel.app/"><img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
+  <a href="https://funnyform.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href="https://crazyform.netlify.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/crazyform.jpeg" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="270" height="auto"/></a>
+  <a href="https://creazerty.com/"><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="270" height="auto"/></a>
 
 </div>
 
