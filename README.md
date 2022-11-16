@@ -43,6 +43,11 @@
 
 ### :woman_technologist: About Me :
 
+
+  <a href="#"><img src="https://github.com/i-fateh/i-fateh/blob/main/about.gif" width="100%" /></a>
+
+
+
 :vulcan_salute: , I am a Full Stack Developer from France.
 
 
