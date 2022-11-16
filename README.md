@@ -20,16 +20,20 @@
 
 
 <div align="center">
-  <a href="https://crazyform.netlify.app/"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
-	<br>
-  <img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="130" height="auto"/>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/screeby.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/dragonball.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/instagram.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/pinterest.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/teslabot.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/iphone.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <br>
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/lanslot.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href="https://crazyform.netlify.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/crazyform.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/switch.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/reactstudio.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+
 </div>
 
 
@@ -38,14 +42,14 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a> from France.
+:vulcan_salute: , I am a Full Stack Developer from France.
 
 
-- :telescope: I’m working as a Project Manager / Software Engineer and contributing to frontend and backend for building web applications.
+- :man_technologist: I’m working as a Project Manager / Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :books: Exploring Technical Content Writing.
 
-- :zap: In my free time, i solve problems with Javascript, I draw Manga and eat good things.
+- :hourglass_flowing_sand: In my free time, i solve problems with Javascript, I draw Manga and eat good things.
 
 
 ---
@@ -78,13 +82,25 @@ I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/
 
 <div align="center">
   <a href="https://crazyform.netlify.app/"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
-  <img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href="https://crazyform.netlify.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/crazyform.jpeg" title="Git" **alt="Git" width="330" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+
+</div>
+
+
+---
+
+### :writing_hand: Some drawings  :
+
+<div align="center">
 
 </div>
