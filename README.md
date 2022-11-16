@@ -68,7 +68,7 @@ I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/
 
 [Crazy Form](https://crazyform.netlify.app/)
 <br>
-[Funny Form](funnyform.vercel.app)
+[Funny Form](https://funnyform.vercel.app)
 <br>
 
 
