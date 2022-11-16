@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <a href="#"><img src="https://github.com/i-fateh/i-fateh/blob/main/fatGIf.gif" width="100%" /></a>
+  <a href="#"><img src="https://github.com/i-fateh/i-fateh/blob/main/meGif.gif" width="100%" /></a>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/fatehelboucherour/">
@@ -96,10 +96,4 @@
 </div>
 
 
----
 
-### :writing_hand: Some drawings  :
-
-<div align="center">
-
-</div>
