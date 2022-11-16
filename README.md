@@ -1,13 +1,8 @@
-<div align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/i-fateh/i-fateh/main/wave.png" width="100%" height="auto"/></a>
-</div>
 
 <div id="header" align="center">
 
   <a href="#"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
-  
-  <br>
-  <br>
+  <a href="#"><img src="https://raw.githubusercontent.com/i-fateh/i-fateh/main/justcode.png" width="100%" height="auto"/></a>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/fatehelboucherour/" target="_blank">
