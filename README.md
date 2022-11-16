@@ -21,11 +21,11 @@
 
 
 <div align="center">
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/screeby.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href="https://dbzsite.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/dragonball.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/instagram.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/pinterest.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href="https://teslabot.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/teslabot.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/screeby.png" title="Git" **alt="Git" width="150" height="auto"/></a>&nbsp;
+  <a href="https://dbzsite.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/dragonball.png" title="Git" **alt="Git" width="150" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/instagram.png" title="Git" **alt="Git" width="150" height="auto"/></a>&nbsp;
+  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/pinterest.png" title="Git" **alt="Git" width="150" height="auto"/></a>&nbsp;
+  <a href="https://teslabot.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/teslabot.png" title="Git" **alt="Git" width="150" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/iphone.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <br>
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/lanslot.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
