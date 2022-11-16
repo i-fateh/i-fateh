@@ -69,13 +69,15 @@ I am a Full Stack Developer <a href="#"><img src="https://media.giphy.com/media/
 <br>
 
 
-<div>
-  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
-  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="240" height="auto"/>&nbsp;
+<div align="center">
+  <img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
+  <img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="330" height="auto"/>&nbsp;
 
 </div>
