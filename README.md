@@ -1,7 +1,6 @@
 <div id="header" align="center">
 
-  <a href="#"><img src="https://github.com/i-fateh/i-fateh/blob/main/meLight.gif" width="160"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/i-fateh/i-fateh/main/justcode.png" width="100%" height="auto"/></a>
+  <a href="#"><img src="https://github.com/i-fateh/i-fateh/blob/main/fatGIf.gif" width="100%" /></a>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/fatehelboucherour/">
