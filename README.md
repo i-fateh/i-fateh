@@ -23,8 +23,8 @@
 <div align="center">
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/screeby.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href="https://dbzsite.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/dragonball.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/instagram.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/pinterest.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href="https://mycloneinsta.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/instagram.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href="https://mypinterestclone.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/pinterest.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href="https://teslabot.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/teslabot.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/iphone.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <br>
@@ -91,8 +91,8 @@ I am a Full Stack Developer from France.
 <div align="center">
   <a href="https://crazyform.netlify.app/"><img src="https://creazerty.com/images/screeby.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href="https://dbzsite.vercel.app/"><img src="https://creazerty.com/images/dragonball.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
+  <a href="https://mycloneinsta.vercel.app/"><img src="https://creazerty.com/images/instagram.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
+  <a href="https://mypinterestclone.vercel.app/"><img src="https://creazerty.com/images/pinterest.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href="https://teslabot.vercel.app/"><img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
