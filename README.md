@@ -31,7 +31,7 @@
   <a href="https://lanslotclone.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/lanslot.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href="https://funnyform.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href="https://crazyform.netlify.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/crazyform.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/switch.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
+  <a href="https://switchstudio.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/switch.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href=""><img src="https://github.com/i-fateh/i-fateh/blob/main/reactstudio.png" title="Git" **alt="Git" width="130" height="auto"/></a>&nbsp;
   <a href="https://creazerty.com/"><img src="https://github.com/i-fateh/i-fateh/blob/main/creazerty.jpeg" title="Git" **alt="Git" width="130" height="auto"/></a>
 
@@ -96,7 +96,7 @@ I am a Full Stack Developer from France.
   <a href="https://teslabot.vercel.app/"><img src="https://creazerty.com/images/teslabot.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href=""><img src="https://creazerty.com/images/iphone.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href="https://lanslotclone.vercel.app/"><img src="https://creazerty.com/images/lanslot.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
-  <a href=""><img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
+  <a href="https://switchstudio.vercel.app/"><img src="https://creazerty.com/images/switch.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href="https://reactstudiocode.vercel.app/"><img src="https://creazerty.com/images/reactstudio.png" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href="https://funnyform.vercel.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/funnyform.jpeg" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
   <a href="https://crazyform.netlify.app/"><img src="https://github.com/i-fateh/i-fateh/blob/main/crazyform.jpeg" title="Git" **alt="Git" width="270" height="auto"/></a>&nbsp;
